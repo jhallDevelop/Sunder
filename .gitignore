@@ -31,6 +31,9 @@ base/env/
 base/screenshots/
 base/_tb/*.obj
 base/_tb/*.mtl
+!base/maps/
+!base/maps/Sunder/
+!base/maps/Sunder/**
 
 GPATH
 GRTAGS
